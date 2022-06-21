@@ -1,0 +1,41 @@
+[PROJECT]
+Target=Pic16f877 ve HCSR04 ile Mesafe Olcme.hex
+Processor_Text=PIC16F877
+CCSVersion=5.049
+Compiler=PCM
+[Target Data]
+FileList=Pic16f877 ve HCSR04 ile Mesafe Olcme.c
+[Pic16f877 ve HCSR04 ile Mesafe Olcme.c]
+Type=4
+[mru-list]
+1=Pic16f877 ve HCSR04 ile Mesafe Olcme.c
+
+[defines]
+buildcount=19
+
+[Opened Files]
+1=Pic16f877 ve HCSR04 ile Mesafe Olcme.c
+t1=31
+Count=1
+2=..\Pic16f877 Ýle Sýcaklýk Sensörü\Sicaklik Sensoru.c
+t2=25
+
+[ProjectLog]
+Days=1
+D1=21-06-2022
+D1_L=8
+D1_L1=[62283]Stopped Editing.
+D1_L2=[66440]Started Editing.
+D1_L3=[66480]Stopped Editing.
+TotalEdit=27
+TotalDebug=0
+D1_E=27
+D1_D=0
+D1_L4=[66480]Project Closed.
+D1_L5=[66582]Project Opened.
+D1_L6=[77156]Started Editing.
+D1_L7=[77345]Stopped Editing.
+D1_L8=[77345]Project Closed.
+[Units]
+Count=1
+1=Pic16f877 ve HCSR04 ile Mesafe Olcme (main)
